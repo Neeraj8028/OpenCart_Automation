@@ -1,0 +1,8 @@
+<extentreports>
+    <configuration>
+        <theme>dark</theme>
+        <documentTitle>Opencart Automation Report</documentTitle>
+        <reportName>Opencart Functional Testing</reportName>
+        <encoding>utf-8</encoding>
+    </configuration>
+</extentreports>
